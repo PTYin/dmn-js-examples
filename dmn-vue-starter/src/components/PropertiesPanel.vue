@@ -20,7 +20,10 @@
   #properties-panel {
     width: 100%;
     height: 100%;
-    background-color: #aaa;
+    background-color: #fff;
+    border-color: rgba(0, 0, 0, 0.09);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+    padding: 0;
   }
 
   .property-label {

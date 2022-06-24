@@ -47,6 +47,7 @@ export default {
 @import "dmn-js/dist/assets/diagram-js.css";
 @import "dmn-js/dist/assets/dmn-js-drd.css";
 @import "dmn-js/dist/assets/dmn-js-decision-table.css";
+@import "dmn-js/dist/assets/dmn-js-decision-table-controls.css";
 @import "dmn-js/dist/assets/dmn-js-literal-expression.css";
 @import "dmn-js/dist/assets/dmn-js-shared.css";
 @import "dmn-js/dist/assets/dmn-font/css/dmn.css";
@@ -54,6 +55,7 @@ export default {
 #canvas {
   width: 100%;
   height: 100%;
+  background-color: #ecf0f5;
 }
 
 #js-properties-panel {
